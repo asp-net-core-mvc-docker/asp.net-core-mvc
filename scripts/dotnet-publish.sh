@@ -1,0 +1,1 @@
+dotnet publish ./src/asp.net-core-mvc -c Release -o ./bin/Docker
